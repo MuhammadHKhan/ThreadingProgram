@@ -4,7 +4,7 @@
 #include <mutex>
 #include <thread>
 
-/*Muhammad Khan, Assignment 4, CS 302 1001
+/*
   This program is going to use threads to sort 
   a list contaiing random numbers. The user will 
   enter list size and the number of threads they 
